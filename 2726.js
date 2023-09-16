@@ -1,4 +1,4 @@
-lass Calculator {
+class Calculator {
   
     /** 
      * @param {number} value
